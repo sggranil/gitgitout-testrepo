@@ -18,3 +18,6 @@ This repository is a simple, collaborative project where participants can add th
 2. **Clone your fork:** Use the following command to clone your forked repository to your local machine:
    ```bash
    git clone https://github.com/sggranil/gitgitout-testrepo.git
+## contributors
+
+1. **michael justin padilla**
